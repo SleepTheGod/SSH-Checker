@@ -1,3 +1,5 @@
+![SSH Checker Banner](https://i.imgur.com/0DGuMrJ.png) 
+
 SSH Checker
 Overview
 Welcome to SSH Checker! This lightweight Python script is designed to help you verify the availability and responsiveness of SSH servers. Whether you’re a system administrator or a security professional, this tool will make managing multiple SSH servers a breeze. With SSH Checker, you can quickly check the status of your SSH services and ensure everything is running smoothly.
