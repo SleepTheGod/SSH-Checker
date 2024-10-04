@@ -4,11 +4,11 @@
 
 
 <p align="center">
-SSH Checker
+# SSH Checker
 </p>
 
 <p align="center">
-Overview
+# Overview
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@ Welcome to SSH Checker! This lightweight Python script is designed to help you v
 </p>
 
 <p align="center">
-Features
+# Features
 </p>
 
 <p align="center">
@@ -33,11 +33,11 @@ ASCII Art Banner Enjoy a visually appealing banner that greets you when you star
 </p>
 
 <p align="center">
-Getting Started
+# Getting Started
 </p>
 
 <p align="center">
-Prerequisites
+# Prerequisites
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@ The required library paramiko
 </p>
 
 <p align="center">
-Installation
+# Installation
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@ Let’s get SSH Checker up and running
 </p>
 
 <p align="center">
-Clone the repository
+# Clone the repository
 </p>
 
 <pre>
@@ -76,7 +76,7 @@ cd SSH-Checker
 </pre>
 
 <p align="center">
-Install the required dependencies
+# Install the required dependencies
 </p>
 
 <pre>
@@ -84,7 +84,7 @@ pip install paramiko
 </pre>
 
 <p align="center">
-Usage
+# Usage
 </p>
 
 <p align="center">
@@ -100,7 +100,7 @@ Make sure to replace &lt;host_file.txt&gt; with the path to your text file that 
 </p>
 
 <p align="center">
-Example
+# Example
 </p>
 
 <p align="center">
