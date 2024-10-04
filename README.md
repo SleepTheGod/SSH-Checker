@@ -1,4 +1,7 @@
-![SSH Checker Banner](https://i.imgur.com/0DGuMrJ.png) 
+<p align="center">
+  <img src="https://i.imgur.com/0DGuMrJ.png" alt="SSH Checker Banner" />
+</p>
+
 
 SSH Checker
 Overview
